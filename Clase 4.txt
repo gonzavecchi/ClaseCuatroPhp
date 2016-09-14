@@ -1,0 +1,1 @@
+id form ingreso, se le da formato a travez del ID, el ID puede pisar una clase definida, pero una clase no puede pisar un ID
